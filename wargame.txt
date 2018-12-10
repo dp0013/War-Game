@@ -1,0 +1,80 @@
+Would you like to play a game?
+Y: Great!  It's 1984 and the USSR just launched a missile.  Good luck!
+	1) Launch first missile:
+		1) Towards Moscow?  (SIGNIFICANT DEATHS OCCUR)
+			1) Call USSR again?
+				1)Yes: (no one answers)
+				2)No: wait for response (USSR launches another missile)
+					1) Launch second missile
+						1) St Petersburg? (SIGNIFICANT DEATHS OCCUR)			
+						2) Rural area? (SYMBOLIC ONLY; FEW CASUALTIES)
+					2) Contact allies
+						1) Germany
+							RANDOM: 
+								0: Intervenes; initiates talks with USSR:
+
+								1: Sides with Russia!
+									1) Call France
+									
+									2) Germany gets nuked
+						2) France
+							RANDOM: 
+								0: Intervenes; initiates talks with USSR:
+
+								1: Sides with Russia!
+									1) Call France
+									
+									2) Germany gets nuked
+							
+							
+			2) Launch 
+		2) Towards rural area? (SYMBOLIC ONLY; FEW CASUALTIES)
+			1) Call USSR again
+				1) 
+			2) 
+		3) Towards friendly country to gain support vs USSR (false flag)
+			Which Country? (CHOOSE Germany or France?)
+				Germany:
+				France:
+	
+	2) call USSR:
+		No answer:
+			1)call again?
+				No answer
+			2)Hang up and launch first missile
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+N: Laaaaaammmmeee....let's talk again when you are more exciting.
+
