@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 14 04:14:09 2018
 
-@author: D. Plyler
+@author: dp
 """
 import random
 import time
